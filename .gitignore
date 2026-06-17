@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+dist/
+build/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# TensorFlow datasets cache (download on demand)
+tensorflow_datasets/
+
+# OS files
+.DS_Store
+Thumbs.db
